@@ -11,3 +11,5 @@ Here goes the Purpose
 Deployment status goes here
 ## How to contribute
 Sample website with plenty of files for demos
+###Copyright
+Copyright Pancho 2021
